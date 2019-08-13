@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ConceptionI_QtyDropDown",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Quanity Dropaown for Products, genereally most useful for Package Quantity selller.",
+    "authors": [
+    {
+        "name": "ConceptionI",
+        "email": "jemilrathod@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
