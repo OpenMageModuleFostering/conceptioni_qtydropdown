@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ConceptionI_QtyDropDown",
+    "name": "openmage-module-fostering\/conceptioni_qtydropdown",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Quanity Dropaown for Products, genereally most useful for Package Quantity selller.",
     "authors": [
